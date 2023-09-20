@@ -11,6 +11,7 @@
             justify-content: space-around;
             flex-wrap: wrap;
             padding: 20px;
+			background-color:lightgrey;
         }
 
         .book {
@@ -39,8 +40,9 @@
 
         .price-block {
             background-color: #2ecc71;
-			width:100%;
-            
+			width:90%;
+            text-align:center;
+			color:white;
             padding: 5px 10px;
             border-radius: 5px;
             display: inline-block;
