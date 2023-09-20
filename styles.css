@@ -4,7 +4,9 @@
             
             font-family: Arial, sans-serif;
         }
-
+h1{
+	text-align:center;
+}
         .book-library {
             background-color: #ffffff;
             display: flex;
@@ -15,7 +17,7 @@
         }
 
         .book {
-            width: 300px;
+            width: 500px;
             margin: 20px;
             background-color: #ffffff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
