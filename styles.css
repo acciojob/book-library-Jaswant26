@@ -18,7 +18,7 @@ h1{
         .book {
             width: 500px;
             margin: 20px;
-            background-color:rgb(46, 204, 113) ;
+            background-color: #ffffff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             border-radius: 5px;
             padding: 20px;
@@ -29,7 +29,7 @@ h1{
             height: auto;
             margin-bottom: 10px;
         }
-        .author {
+        .book p {
             color: #777777;
         }
 
